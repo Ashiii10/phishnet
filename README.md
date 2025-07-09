@@ -98,7 +98,9 @@ Basic Steps for Streamlit Cloud:
 -Click “New App” > Select repo > Choose frontend.py
 -Click Deploy
 
-
+Screenshots:
+### 📊 Model Evaluation Page
+![App Preview](https://github.com/Ashiii10/phishnet/blob/main/Screenshot%202025-07-10%20013123.png)
 
 
 
