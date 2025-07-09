@@ -101,6 +101,12 @@ Basic Steps for Streamlit Cloud:
 Screenshots:
 ### 📊 Model Evaluation Page
 ![App Preview](https://github.com/Ashiii10/phishnet/blob/main/Screenshot%202025-07-10%20013123.png)
+![App Preview](https://github.com/Ashiii10/phishnet/blob/main/Screenshot%202025-07-10%20013227.png)
+![App Preview](https://github.com/Ashiii10/phishnet/blob/main/Screenshot%202025-07-10%20013251.png)
+![App Preview](https://github.com/Ashiii10/phishnet/blob/main/Screenshot%202025-07-10%20013310.png)
+![App Preview](https://github.com/Ashiii10/phishnet/blob/main/Screenshot%202025-07-10%20013331.png)
+
+
 
 
 
