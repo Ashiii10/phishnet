@@ -15,11 +15,11 @@ PhishNet is a powerful web-based phishing detection system that uses Artificial 
 
 🔍 Problem Statement
 Phishing prediction is the task of identifying and predicting the likelihood of a website, email, or message being a phishing attempt. Several challenges arise in building a phishing detection system:
--Diversity of Attacks – Evolving, social engineering, brand mimicry.
--Imbalanced Data – Far fewer phishing samples than legitimate ones.
--Lack of Ground Truth – Phishing sites are taken down quickly.
--Limited Access to Data – Proprietary or sensitive in nature.
--Feature Engineering – Selecting generalizable and robust features.
+#Diversity of Attacks – Evolving, social engineering, brand mimicry.
+#Imbalanced Data – Far fewer phishing samples than legitimate ones.
+#Lack of Ground Truth – Phishing sites are taken down quickly.
+#Limited Access to Data – Proprietary or sensitive in nature.
+#Feature Engineering – Selecting generalizable and robust features.
 
 🚀 Proposed Work
 This project addresses the above challenges through a streamlined deep learning-based solution with multiple model comparisons.
